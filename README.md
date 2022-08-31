@@ -1,7 +1,10 @@
 # Fat Cry 3 VR
 FarCryVR is a VR mod for Far Cry 3. It works on the latest Steam and U-Play version of the game, and DX11 must be enabled to play the mod. The mod should be built as a DLL and then be injected into the game. Currently the mod has not been released anywhere as it is super buggy and still in development. If you're interesting in helping me test this mod, please feel free to contact me at nathandiepeveen.nl@gmail.com. I'm currently not accepting testers yet, but once I do I will contact some of the people that mailed me to see if they are applicable for the job. Important Note: I'm not looking for any developers right now, and when I am looking for one, I know some people I will contact first. Please don't send me emails about helping with the development. (I do greatly appreciate your will to help though)
 
+[<img src="https://user-images.githubusercontent.com/62761434/187731060-af874bc8-c639-49cf-a2e2-f90d7125bcee.png" width="50%">](https://www.youtube.com/watch?v=L3jweR70csQ "Far Cry 3 VR In Action!")
+
 # Missions
+
 Below is a list of all Far Cry 3 missions, and how the mod performs in them.
 
 ❓ - Not tested
