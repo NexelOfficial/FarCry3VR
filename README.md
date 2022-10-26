@@ -18,14 +18,14 @@ Below is a list of all Far Cry 3 missions, and how the mod performs in them.
 🟩 - Perfectly playable from start to finish
 
 
-| Mission | Playable | Description |
-| --- | :---: | --- |
-| Make A Break For It | 🟥 | Game crashes when the DLL is injected anywhere throughout the mission
+| Mission | Playable | Description | Date |
+| --- | :---: | --- | --- |
+| Make A Break For It | 🟥 | Game crashes when the DLL is injected anywhere throughout the mission. | 8/31/22
 | Down In Amanaki Town | ❓
 | Harvest The Jungle | ❓
 | Secure The Outpost | ❓
-| Mushrooms In The Deep | 🟨 | A 'Mission failed' screen will rarely appear after entering the cave.
-| The Medusa's Call | 🟩 | Confirmed on 26th of Oktober 2022
+| Mushrooms In The Deep | 🟨 | A 'Mission failed' screen will rarely appear after entering the cave. | 8/31/22
+| The Medusa's Call | 🟩 | Confirmed on 26th of Oktober 2022. | 10/26/22
 | Playing The Spoiler | ❓
 | Prison Break-In | ❓
 | Island Port Hotel | ❓
