@@ -25,7 +25,7 @@ Below is a list of all Far Cry 3 missions, and how the mod performs in them.
 | Harvest The Jungle | ❓
 | Secure The Outpost | ❓
 | Mushrooms In The Deep | 🟨 | A 'Mission failed' screen will rarely appear after entering the cave.
-| The Medusa's Call | ❓
+| The Medusa's Call | 🟩 | Confirmed on 26th of Oktober 2022
 | Playing The Spoiler | ❓
 | Prison Break-In | ❓
 | Island Port Hotel | ❓
