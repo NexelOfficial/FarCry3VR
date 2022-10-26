@@ -26,7 +26,7 @@ Below is a list of all Far Cry 3 missions, and how the mod performs in them.
 | Secure The Outpost | ❓
 | Mushrooms In The Deep | 🟨 | A 'Mission failed' screen will rarely appear after entering the cave. | 8/31/22
 | The Medusa's Call | 🟩 | Confirmed on 26th of Oktober 2022. | 10/26/22
-| Playing The Spoiler | ❓
+| Playing The Spoiler | 🟧 | The game will crash after the trigger cutscene played | 10/26/22
 | Prison Break-In | ❓
 | Island Port Hotel | ❓
 | Keeping Busy | ❓
@@ -59,3 +59,25 @@ Below is a list of all Far Cry 3 missions, and how the mod performs in them.
 | Betting Against the House | ❓
 | The Doctor Is Out | ❓
 | Hard Choices | ❓
+
+# Other issues
+
+The mod has plenty of other issues to consider. Some of them are game breaking, some just require a minor workaround. Below is the scale of severity.
+
+⬛ - Game breaking, nauseating or even crashing with no workaround possible
+
+🟥 - Noticeable, annoying, no workaround possible
+
+🟧 - Noticeable, annoying but a workaround is possible
+
+🟨 - Definitely noticeable, but not annoying.
+
+🟩 - Almost unnoticeable
+
+
+| Bug | State | Description | Date |
+| --- | :---: | --- | --- |
+| Amanaki Town | ⬛ | Amanaki town is just a glitchy most likely crashing mess. | 8/31/22
+| Enemy grenades | 🟥 | When enemies throw grenades, the player's camera will turn into the grenade until it lands. | 10/26/22
+| Glitchy car | 🟨 | The car can sometimes glitch back and forth a bit when driving | 10/26/22
+| Animations | 🟥 | When animations are played, (climbing, harvesting, looting, etc.) the camera is forced in that animation | 10/26/22
